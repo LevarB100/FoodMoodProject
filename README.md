@@ -28,7 +28,7 @@ Farrah Carter (Images, gifs API)
 * Create a polished front end/UI .
 * Meet good quality coding standards (indentation, scoping, naming, etc.).
 * Do NOT use alerts, confirms, or prompts (look into modals).
-* Incorporate some sort of repeating element (table, columns, etc.).
+* Incorporate some sort of repeating element (table, columns, etc.)
 * Use Bootstrap or an alternative CSS framework
 * Deploy your site to GitHub Pages
 * Include user input validation
