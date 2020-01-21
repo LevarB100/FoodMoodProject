@@ -31,6 +31,6 @@ Farrah Carter (Images, gifs API)
 * Incorporate some sort of repeating element (table, columns, etc.).
 * Use Bootstrap or an alternative CSS framework.
 * Deploy your site to GitHub Pages.
-* Include user input validation.
+* Include user input validation
 * `OPTIONAL` Includes mobile responsiveness
 * `OPTIONAL` Uses alternative css framework
