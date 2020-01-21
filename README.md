@@ -33,4 +33,4 @@ Farrah Carter (Images, gifs API)
 * Deploy your site to GitHub Pages.
 * Include user input validation
 * `OPTIONAL` Includes mobile responsiveness
-* `OPTIONAL` Uses alternative css framework
+* `OPTIONAL` Uses alternative css framework.
