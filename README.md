@@ -32,5 +32,5 @@ Farrah Carter (Images, gifs API)
 * Use Bootstrap or an alternative CSS framework.
 * Deploy your site to GitHub Pages.
 * Include user input validation.
-* `OPTIONAL` Includes mobile responsiveness.
+* `OPTIONAL` Includes mobile responsiveness
 * `OPTIONAL` Uses alternative css framework
