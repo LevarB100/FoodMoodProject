@@ -26,7 +26,7 @@ Farrah Carter (Images, gifs API)
 * Use AJAX to pull data.
 * Use at least one new library or technology that we haven’t discussed.
 * Create a polished front end/UI .
-* Meet good quality coding standards (indentation, scoping, naming, etc.).
+* Meet good quality coding standards (indentation, scoping, naming, etc.)
 * Do NOT use alerts, confirms, or prompts (look into modals).
 * Incorporate some sort of repeating element (table, columns, etc.)
 * Use Bootstrap or an alternative CSS framework
