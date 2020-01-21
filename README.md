@@ -24,7 +24,7 @@ Farrah Carter (Images, gifs API)
 ### Project Requirements
 * Use at least two APIs.
 * Use AJAX to pull data.
-* Use at least one new library or technology that we haven’t discussed.
+* Use at least one new library or technology that we haven’t discussed
 * Create a polished front end/UI 
 * Meet good quality coding standards (indentation, scoping, naming, etc.)
 * Do NOT use alerts, confirms, or prompts (look into modals).
