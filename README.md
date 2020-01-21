@@ -30,7 +30,7 @@ Farrah Carter (Images, gifs API)
 * Do NOT use alerts, confirms, or prompts (look into modals).
 * Incorporate some sort of repeating element (table, columns, etc.).
 * Use Bootstrap or an alternative CSS framework.
-* Deploy your site to GitHub Pages.
+* Deploy your site to GitHub Pages
 * Include user input validation
 * `OPTIONAL` Includes mobile responsiveness
 * `OPTIONAL` Uses alternative css framework
