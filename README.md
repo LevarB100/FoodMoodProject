@@ -29,7 +29,7 @@ Farrah Carter (Images, gifs API)
 * Meet good quality coding standards (indentation, scoping, naming, etc.).
 * Do NOT use alerts, confirms, or prompts (look into modals).
 * Incorporate some sort of repeating element (table, columns, etc.).
-* Use Bootstrap or an alternative CSS framework.
+* Use Bootstrap or an alternative CSS framework
 * Deploy your site to GitHub Pages
 * Include user input validation
 * `OPTIONAL` Includes mobile responsiveness
